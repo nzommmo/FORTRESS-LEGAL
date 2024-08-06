@@ -11,10 +11,10 @@ const Services = () => {
         </div>
         <div className='mt-20 flex flex-col ms-30  gap-3 justify-start'>
           <div className='w-[500px] lg:w-1/2'>
-            <p className='md:text-5xl sm:text-xl'>Trust us to navigate your legal journey with expertise and care.</p>
+            <p className='md:text-5xl sm:text-xl text-balance'>Trust us to navigate your legal journey with expertise and care.</p>
           </div>
-          <div className='w-[500px]'>
-            <p className='md:text-2xl sm:text-sm'>We have a team of talented lawyers who can bring your ideas into life.</p>
+          <div className='w-[500px] flex-wrap'>
+            <p className='md:text-2xl sm:text-sm text-balance'>We have a team of talented lawyers who can bring your ideas into life.</p>
           </div>
         </div>
       </div>
