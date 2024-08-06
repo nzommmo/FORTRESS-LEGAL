@@ -11,7 +11,7 @@ const Navbar = () => {
             <Gavel className='w-10 h-10' />
             <p className='text-xl'>FORTRESS <span className='text-customyellow'>LEGAL</span></p>
           </div>
-          <ul className='flex gap-4 text-xl sm:text-sm'>
+          <ul className='flex gap-4 md:text-xl text-sm'>
             <li><a href="#">Home</a></li>
             <li><a href="#">Attorneys</a></li>
             <li><a href="#">About Us</a></li>
@@ -26,12 +26,12 @@ const Navbar = () => {
             <p className='text-xl'>Experienced Legal Representation You Can Trust</p>
           </div>
         </div>
-        <div className='flex mt-40 items-center gap-40 sm:gap-20 justify-center'>
+        <div className='flex mt-40 items-center md:gap-40 sm:gap-20 justify-center'>
           <div>
-            <button className='bg-customyellow px-5 py-2 text-xl rounded sm:text-sm sm:py-1'>GET STARTED</button>
+            <button className='bg-customyellow md:px-5 md:py-2 text-xl rounded sm:text-sm sm:py-1 sm:px-1'>GET STARTED</button>
           </div>
           <div>
-            <button className='bg-customlue1 px-5 py-2 text-xl rounded sm:text-sm sm:py-1'>CONTACT US</button>
+            <button className='bg-customlue1 md:px-5 md:py-2 text-xl rounded sm:text-sm sm:py-1 sm:px-1'>CONTACT US</button>
           </div>
         </div>
       </div>
