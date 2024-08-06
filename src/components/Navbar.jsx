@@ -26,7 +26,7 @@ const Navbar = () => {
             <p className='text-xl'>Experienced Legal Representation You Can Trust</p>
           </div>
         </div>
-        <div className='flex mt-40 items-center md:gap-40 sm:gap-20 justify-center'>
+        <div className='flex mt-40 items-center md:gap-40 sm:gap-40 justify-center'>
           <div>
             <button className='bg-customyellow md:px-5 md:py-2 text-xl rounded sm:text-sm sm:py-1 sm:px-1'>GET STARTED</button>
           </div>

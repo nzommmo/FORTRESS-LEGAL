@@ -11,7 +11,7 @@ const Testimonials = () => {
           <p className='text-xl'>What are people saying about us</p>
         </div>
       </div>
-      <div className='flex flex-col   md:flex-row justify-center gap-10 text-black pb-10 '>
+      <div className='flex flex-col items-center md:flex-row justify-center gap-10 text-black pb-10 '>
         <div className='bg-white rounded-md p-4 w-80'>
           <p className='text-lg font-semibold'>“Exceptional Service and Expertise”</p>
           <p className='mt-2'>“From the moment I walked in, I felt supported and understood. They handled my case with utmost care and provided expert guidance every step of the way. Their commitment to achieving the best outcome for their clients is truly commendable”</p>
