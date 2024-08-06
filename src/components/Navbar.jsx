@@ -11,7 +11,7 @@ const Navbar = () => {
             <Gavel className='w-10 h-10' />
             <p className='text-xl'>FORTRESS <span className='text-customyellow'>LEGAL</span></p>
           </div>
-          <ul className='flex gap-4 text-xl'>
+          <ul className='flex gap-4 text-xl sm:text-sm'>
             <li><a href="#">Home</a></li>
             <li><a href="#">Attorneys</a></li>
             <li><a href="#">About Us</a></li>
