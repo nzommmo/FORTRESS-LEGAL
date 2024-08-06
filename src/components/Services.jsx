@@ -9,7 +9,7 @@ const Services = () => {
           <Gavel className='w-10 h-10' />
           <p className='text-xl'>FORTRESS <span className='text-customyellow'>LEGAL</span></p>
         </div>
-        <div className='mt-20 flex flex-col ms-40 px-10 gap-3 justify-start'>
+        <div className='mt-20 flex flex-col ms-30  gap-3 justify-start'>
           <div className='w-[500px] lg:w-1/2'>
             <p className='text-5xl'>Trust us to navigate your legal journey with expertise and care.</p>
           </div>
